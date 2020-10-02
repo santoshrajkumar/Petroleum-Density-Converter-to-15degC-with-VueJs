@@ -1,4 +1,4 @@
-# density
+# Petroleum Density Converter as per ASTM 53b with Vue.js
 
 > A Vue.js project
 
@@ -15,4 +15,8 @@ npm run dev
 npm run build
 ```
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+* The converter is live [here](https://density-astm53b.web.app).
+
+* Feel free to contribute to the project. I have included for 3 petroleum products: MS, SKO, and HSD. You may contribute for other products as well.
+
+
